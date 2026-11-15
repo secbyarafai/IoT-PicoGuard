@@ -1,4 +1,4 @@
-# IoT PicoGuard — Smart Intruder Alarm with Telegram Alerts
+# IoT PicoGuard - Smart Intruder Alarm with Telegram Alerts
 
 ![Cover](images/cover.webp)
 
