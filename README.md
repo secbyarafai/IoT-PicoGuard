@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 # IoT PicoGuard - Smart Intruder Alarm with Telegram Alerts
+=======
+# IoT PicoGuard: Smart Intruder Alarm with Telegram Alerts
+>>>>>>> 1e69b30 (Remove em dashes from README)
 
 ![Cover](images/cover.webp)
 
 An IoT intruder alarm built on a **Raspberry Pi Pico W** running **MicroPython**. A PIR motion sensor detects movement, a buzzer and LED raise a local alarm, and a **Telegram bot** sends a real-time alert to the owner's phone. The owner can also arm, disarm, check status and pull the event log remotely.
 
-Built as part of *Unit 19 — Internet of Things* (college project, 2026).
+Built as part of *Unit 19: Internet of Things* (college project, 2026).
 
 📝 **Full write-up:** [Medium blog](https://secbyarafai.medium.com/)
 
@@ -48,7 +52,7 @@ The system follows a Machine-to-Machine (M2M) IoT architecture:
 | HC-SR501 PIR motion sensor | 1 |
 | Active buzzer | 1 |
 | LED + 330Ω resistor | 1 |
-| Breadboard + jumper wires | — |
+| Breadboard + jumper wires | 1 set |
 | Micro USB cable | 1 |
 
 **Total cost: £14.50** (target was under £30)
