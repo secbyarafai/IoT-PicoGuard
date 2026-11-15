@@ -1,0 +1,8 @@
+# Never commit real credentials
+secrets.py
+
+# Event log generated on the device
+log.txt
+
+__pycache__/
+.vscode/
