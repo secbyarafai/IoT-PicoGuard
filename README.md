@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # IoT PicoGuard - Smart Intruder Alarm with Telegram Alerts
-=======
-# IoT PicoGuard: Smart Intruder Alarm with Telegram Alerts
->>>>>>> 1e69b30 (Remove em dashes from README)
 
 ![Cover](images/cover.webp)
 
